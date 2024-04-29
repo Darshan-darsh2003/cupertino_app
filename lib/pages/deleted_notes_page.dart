@@ -57,14 +57,14 @@ class _DeletedNotesPageState extends State<DeletedNotesPage> {
         },
       ),
       children: [
-        CupertinoListSection.insetGrouped(
-          children: [
-            // CustomCupertinoNoteCard(
-            //   title: 'Note 1',
-            //   subtitle: 'This is a note',
-            //   leading: const Icon(CupertinoIcons.doc,
-          ],
-        ),
+        // CupertinoListSection.insetGrouped(
+        //   children: [
+        //     // CustomCupertinoNoteCard(
+        //     //   title: 'Note 1',
+        //     //   subtitle: 'This is a note',
+        //     //   leading: const Icon(CupertinoIcons.doc,
+        //   ],
+        // ),
       ],
     ));
   }
